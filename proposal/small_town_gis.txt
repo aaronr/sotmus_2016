@@ -1,0 +1,4 @@
+Small Town GIS - Leveraging Quadcopters, OSM, and GitHub to help create and manage small town data
+
+We will use Langley Washington as an example of leveraging inexpensive technology to help provide a community with mapping resources.  Data collection via low cost multi-rotors and data processing via OpenDroneMap allow for the creation of up-to-date imagery and digital surface models.  Many data products and maps can be created, but of particular interest is leveraging GitHub and GitHub Pages to host image tiles that can be used to update OSM data for the community.  Finally, we will take a look how local governments and interest groups can leverage OSM via free web map hosting on the GitHub Pages infrastructure.
+
